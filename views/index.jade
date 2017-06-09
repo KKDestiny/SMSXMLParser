@@ -1,0 +1,24 @@
+extends layout
+
+block content
+	.row(style="margin-top:50px;")
+		.offset-md-2.col-md-8
+			h1= title
+			p Welcome to #{title}
+			p 
+				a(href="/parse") 重新解析
+			
+			each session, i in data
+				h3(style="margin-top:50px; font-weight:bold;") #{session.Address}
+				table.table.table-hover.table-striped.table-bordered.table-sm
+					each sms, j in session.sms
+						tr
+							td.text-center
+								- if("1"==sms.Type)
+									span.badge.badge-primary 接收
+								- else
+									span.badge.badge-danger 发送
+								- end
+							td.text-center #{sms.Date}
+							td #{sms.Body}
+				

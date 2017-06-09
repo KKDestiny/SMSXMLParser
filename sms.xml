@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<SMSRecord>
+    <SMS>
+        <Type>1</Type>
+        <Status>0</Status>
+        <IsRead>1</IsRead>
+        <Address>10010100</Address>
+        <Date>2012-10-24 11:53:43</Date>
+        <Subject></Subject>
+        <Body>【悦TV观影热点】外星生物施虐地球活抓人类，纯爷们科学家揭露恐怖真相 http://g.iuni.com.cn/classic/r.jsp?p=23285 （免信息费）</Body>
+    </SMS>
+    <SMS>
+        <Type>1</Type>
+        <Status>0</Status>
+        <IsRead>1</IsRead>
+        <Address>18620140714</Address>
+        <Date>2012-07-16 02:54:17</Date>
+        <Subject></Subject>
+        <Body>McAfee Security: 正在验证号码</Body>
+    </SMS>
+    <SMS>
+        <Type>1</Type>
+        <Status>0</Status>
+        <IsRead>1</IsRead>
+        <Address>101555</Address>
+        <Date>2012-07-16 10:07:04</Date>
+        <Subject></Subject>
+        <Body>温馨的声音，暖暖的感觉，听戴佩妮治愈的声音，拨打101555按3试听下载“你要的爱”。按5加入音乐乐翻天，还可有机会获得30元话费返还哦</Body>
+    </SMS>
+    <SMS>
+        <Type>1</Type>
+        <Status>0</Status>
+        <IsRead>1</IsRead>
+        <Address>10010202</Address>
+        <Date>2012-07-16 10:22:13</Date>
+        <Subject></Subject>
+        <Body>广东联通手机上网，使用有奖！使用更多奖励更多，申请当月只要使用套餐内流量的50%以上,次月即可获得50M流量的奖励！回复“G”到10010202参与广东联通“G时代”活动，赢取奖励吧!赠送流量录入当月有效。（新入网半月租用户以实际套餐流量作为流量考核）更多详情请见：http://g.iuni.com.cn/classic/r.jsp?p=99907 或咨询10010。(本信息免费)</Body>
+    </SMS>
+    <SMS>
+        <Type>2</Type>
+        <Status>0</Status>
+        <IsRead>1</IsRead>
+        <Address>10010202</Address>
+        <Date>2012-07-16 10:22:33</Date>
+        <Subject></Subject>
+        <Body>g</Body>
+    </SMS>
+    <SMS>
+        <Type>1</Type>
+        <Status>0</Status>
+        <IsRead>1</IsRead>
+        <Address>10010202</Address>
+        <Date>2012-07-16 10:23:15</Date>
+        <Subject></Subject>
+        <Body>尊敬的用户：感谢您成功参与广东联通“G时代阶梯成长计划”活动，活动详情请登陆炫魅广东门户 http://g.iuni.com.cn/ ，查询自己的套餐和流量使用情况发送HF到10010，详情咨询10010。</Body>
+    </SMS>
+</SMSRecord>
