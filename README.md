@@ -3,14 +3,12 @@ welcome to visit my website: [https://www.onelib.biz](https://www.onelib.biz)
 
 or visit my home page: [http://www.linxiaozhou.com](http://www.linxiaozhou.com)
 
----
 
 # SMSXMLParser
 A Parse that Parse SMS XML file, and after that, display parse data on web page.
 
 ![alt](https://github.com/KKDestiny/SMSXMLParser/blob/master/public/images/demo.jpg?raw=true)
 
----
 
 # Steps
 
@@ -20,7 +18,6 @@ A Parse that Parse SMS XML file, and after that, display parse data on web page.
 
 if you want to parse your own xml file, replace the file "sms.xml". And restart the server, click "重新解析".
 
----
 
 # XML file format
 
